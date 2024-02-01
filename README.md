@@ -23,6 +23,7 @@ This project explores data from Olist, a Brazilian e-commerce platform connectin
 12. Effect of customer reviews on sales and product performance.
 13. Profit margins across different product categories.
 14. Optimization of marketing strategy to increase ROI.
+15. Distances between sellers and customers.
 
 ## Additional Analysis:
 - Customer retention rate calculation based on geolocation with high customer density.
@@ -46,6 +47,7 @@ Through addressing the business questions, I've successfully provided Olist with
 Moreover, working on this dataset has expanded my understanding of e-commerce metrics and enhanced my skills in Power BI, DAX, and data modeling. I aim to create a dashboard from this report and share a link for interactive visualization soon.
 
 ## Image:
-[Uploading [POWER BI] E-Commerce from Brazil Database Analysis.pdf…]()
+[[POWER BI] E-Commerce from Brazil Database Analysis.pdf](https://github.com/karimdiab97/-POWER-BI-E-Commerce-from-Brazil-Database-Analysis/files/14130196/POWER.BI.E-Commerce.from.Brazil.Database.Analysis.pdf)
+
 
 
