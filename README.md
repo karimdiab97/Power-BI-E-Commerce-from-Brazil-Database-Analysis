@@ -47,7 +47,11 @@ Through addressing the business questions, I've successfully provided Olist with
 Moreover, working on this dataset has expanded my understanding of e-commerce metrics and enhanced my skills in Power BI, DAX, and data modeling. I aim to create a dashboard from this report and share a link for interactive visualization soon.
 
 ## Image:
-[[POWER BI] E-Commerce from Brazil Database Analysis.pdf](https://github.com/karimdiab97/-POWER-BI-E-Commerce-from-Brazil-Database-Analysis/files/14130196/POWER.BI.E-Commerce.from.Brazil.Database.Analysis.pdf)
+![01](https://github.com/karimdiab97/-POWER-BI-E-Commerce-from-Brazil-Database-Analysis/assets/101432419/971d6158-b787-4ea2-afff-824a2f4c969d)
+![02](https://github.com/karimdiab97/-POWER-BI-E-Commerce-from-Brazil-Database-Analysis/assets/101432419/c6637e5b-cb70-425d-8698-94508698cbb2)
+![03](https://github.com/karimdiab97/-POWER-BI-E-Commerce-from-Brazil-Database-Analysis/assets/101432419/183ceff7-61bb-4c77-83da-39fb02c10dde)
+![05](https://github.com/karimdiab97/-POWER-BI-E-Commerce-from-Brazil-Database-Analysis/assets/101432419/4097d2cd-0cec-4001-bbcb-c04121fac59c)
+![04](https://github.com/karimdiab97/-POWER-BI-E-Commerce-from-Brazil-Database-Analysis/assets/101432419/f18545a8-f06f-430b-b304-6c7733252bf2)
 
 
 
