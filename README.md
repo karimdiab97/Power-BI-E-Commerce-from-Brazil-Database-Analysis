@@ -27,3 +27,25 @@ This project explores data from Olist, a Brazilian e-commerce platform connectin
 ## Additional Analysis:
 - Customer retention rate calculation based on geolocation with high customer density.
 - By addressing these questions, valuable insights can be gleaned to enhance Olist's performance and profitability.
+
+
+## Recommendations:
+
+1. Target Sao Paulo Market for increased sales.
+2. Expand into new international markets.
+3. Analyze sales data for better marketing and inventory management.
+4. Optimize shipping process for faster delivery.
+5. Ensure smooth checkout for popular payment methods.
+6. Review pricing and shipping fees for competitiveness.
+7. Promote premium products to high-end consumers.
+8. Evaluate logistics for heavy items.
+9. Expand distribution into Europe and North America.
+
+## Conclusion:
+Through addressing the business questions, I've successfully provided Olist with valuable insights to optimize growth opportunities within their e-commerce platform.
+Moreover, working on this dataset has expanded my understanding of e-commerce metrics and enhanced my skills in Power BI, DAX, and data modeling. I aim to create a dashboard from this report and share a link for interactive visualization soon.
+
+## Image:
+[Uploading [POWER BI] E-Commerce from Brazil Database Analysis.pdf…]()
+
+
