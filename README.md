@@ -1,4 +1,4 @@
-# -POWER-BI-E-Commerce-from-Brazil-Database-Analysis
+# POWER-BI-E-Commerce-from-Brazil-Database-Analysis
 
 ## Introduction:
 This project explores data from Olist, a Brazilian e-commerce platform connecting merchants with customers. It aims to analyze trends and opportunities for growth and optimization. Undertaken as part of an online data analysis challenge, I utilized Power BI to enhance my skills while providing insights into Olist's performance.
